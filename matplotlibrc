@@ -1,0 +1,20 @@
+#Fonts
+font.family : serif
+font.serif : Computer Modern Roman
+font.sans-serif : Computer Modern Sans Serif
+font.monospace : Computer Modern Typewriter
+text.usetex : true
+#Axes
+axes.titlesize : 18
+axes.labelsize : 18
+#Lines
+lines.linewidth : 2
+#Ticks
+xtick.labelsize : 10
+ytick.labelsize : 10
+xtick.major.pad : 8
+xtick.minor.pad : 8
+ytick.major.pad : 8
+ytick.minor.pad : 8
+#Legend
+legend.fontsize : 10
